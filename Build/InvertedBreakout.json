@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "InvertedBreakout.data.unityweb",
+"asmCodeUrl": "InvertedBreakout.asm.code.unityweb",
+"asmMemoryUrl": "InvertedBreakout.asm.memory.unityweb",
+"asmFrameworkUrl": "InvertedBreakout.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
